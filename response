@@ -1,0 +1,15 @@
+{
+ "status":200,
+"message":"success",
+"transaction_detail":{
+  "rek_tujuan":"1234567",
+  "nama_penerima":"bagus fibrianto",
+  "kode_bank":"009",
+  "nama_bank":"BNI",
+  "amount":500000,
+  "admin_fee":0,
+  "notes":"bayar hutang",
+  "journal":"2020031211120500199",
+  "timestamp":"2020-03-12T11:12:05"
+}
+}
