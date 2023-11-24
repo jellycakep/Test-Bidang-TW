@@ -1,0 +1,10 @@
+{
+    "name":"Fachri",
+    "age":"27 y.o"
+    "favorite_food":["Salad", "Bakso", "Nasi Goreng"]
+    "education": {
+        "elementary_school":SDN 02 GN Terang"
+        "junior_highschool":"SMPN 07 KOTABUMI"
+        "senior_highschool":"YP UNILA Senior Highschool"
+    }
+}
