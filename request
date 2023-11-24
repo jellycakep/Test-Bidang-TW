@@ -1,0 +1,7 @@
+{
+  "kode_bank":"009",
+  "rek_tujuan":"1234567",
+  "amount":500000,
+  "notes":"bayar hutang",
+  "pin_transaksi":"`123456",
+}
